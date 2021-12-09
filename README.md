@@ -13,6 +13,10 @@ Move all the discs from the first peg to the third. Additionally you can try to 
  - You can only move one disc at the time;
  - You can only place a disc on pegs with no discs, or on top of a bigger disc;
 
+## How to play
+  1- Press the blue button under the peg on which the disc you want to move is on (this will make it light up);
+  2- Press the blue button under the peg where you want to place the disc;
+
 ## Example of an ongoing match
 
 ![middle game](https://user-images.githubusercontent.com/75253335/145321519-1bbd9218-6186-4f6d-8e82-3048610574b3.png)
