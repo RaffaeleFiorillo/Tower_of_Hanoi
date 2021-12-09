@@ -15,6 +15,7 @@ Move all the discs from the first peg to the third. Additionally you can try to 
 
 ## How to play
   1- Press the blue button under the peg on which the disc you want to move is on (this will make it light up);
+  
   2- Press the blue button under the peg where you want to place the disc;
 
 ## Example of an ongoing match
